@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, My name is Bhuvaneswarreddy  
+### Data Science & Software Development Enthusiast  
 
-<!--
-**bhuvaneswarreddy123/bhuvaneswarreddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An engineering student with a CSE background, proficient in Python, Java, data structures, algorithms, SQL, machine learning, and deep learning. I also have good knowledge of MongoDB, Django, and web development.
 
-Here are some ideas to get you started:
+- 🌍  I'm based in India  
+- 🖥️  See my portfolio at [MyPortfolio](#)  
+- ✉️  You can contact me at bhuvaneswarreddy@example.com  
+- 🧠  I'm learning advanced Data Structures and Machine Learning projects  
+- 🤝  I'm open to collaborating on Machine Learning, Python, and Web Development projects  
+- ⚡  Passionate about continuous learning and exploring new technologies. Currently enhancing my web development skills with HTML, CSS, and JavaScript. Enthusiastic about applying machine learning techniques to real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
+![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazonaws)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=googlecloud)  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhuvaneswarreddy/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/bhuvaneswarreddy)  
+
+## 📊 My GitHub Stats  
+![Bhuvaneswarreddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuvaneswarreddy&show_icons=true&theme=radical)  
+
+## ⚡ Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvaneswarreddy&theme=redical)  
+
+## 👀 View Count  
+![Profile views](https://komarev.com/ghpvc/?username=bhuvaneswarreddy&color=blue)  
+
+## 📌 Top Repositories  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhuvaneswarreddy&repo=your-repo-name&theme=radical)](https://github.com/bhuvaneswarreddy/your-repo-name)  

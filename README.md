@@ -44,6 +44,8 @@ Hello! I'm **AGUDURUBHUVANESWARREDDY**, a passionate **Computer Science and Engi
 ![Adaptability](https://img.shields.io/badge/-Adaptability-8BC34A?style=flat-square&logo=adapting&logoColor=white) 
 ![Time Management](https://img.shields.io/badge/-Time%20Management-9C27B0?style=flat-square&logo=clock&logoColor=white)
 
+---
+
 
 ### 🚀 Projects
 #### 🛒 Super Market Billing System

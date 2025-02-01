@@ -50,7 +50,8 @@ Hello! I'm **AGUDURUBHUVANESWARREDDY**, a passionate **Computer Science and Engi
 ---
 
 ### 📊 GitHub Stats
-![Agudurubhuvaneswarreddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Agudurubhuvaneswarreddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvaneswarreddy123&show_icons=true&theme=radical)
+
 
 ---
 

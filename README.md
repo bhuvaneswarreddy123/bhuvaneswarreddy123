@@ -22,6 +22,14 @@ An engineering student with a CSE background, proficient in Python, Java, data s
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazonaws)  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=googlecloud)  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode)  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
+![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)  
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhuvaneswarreddy/)  

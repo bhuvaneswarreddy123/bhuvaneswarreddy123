@@ -11,25 +11,26 @@ An engineering student with a CSE background, proficient in Python, Java, data s
 - ⚡  Passionate about continuous learning and exploring new technologies. Currently enhancing my web development skills with HTML, CSS, and JavaScript. Enthusiastic about applying machine learning techniques to real-world problems.  
 
 ## 🚀 Skills  
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
-![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazonaws)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=googlecloud)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode)  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c"/>
+  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-R-blue?style=flat-square&logo=r"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle"/>
+</p>
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhuvaneswarreddy/)  

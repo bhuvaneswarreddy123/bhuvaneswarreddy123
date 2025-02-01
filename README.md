@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-![Header Image](https://your-image-url.com)
+![Header Image](https://github.com/bhuvaneswarreddy123/bhuvaneswarreddy123/blob/main/name.svg)
 
 ### About Me
 Hello! I'm **AGUDURUBHUVANESWARREDDY**, a passionate **Computer Science and Engineering** student currently in my final year at **Rajeev Gandhi Memorial College of Engineering and Technology** in **Nandyal, Andhra Pradesh**. I'm passionate about solving complex problems, developing efficient solutions, and exploring new technologies.

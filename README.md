@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/agudurubhuvaneswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudurubhuvaneswarreddy" height="40" width="60" /></a>
 <a href="https://instagram.com/call_me_bhuvan199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_bhuvan199" height="40" width="60" /></a>
 <a href="https://www.leetcode.com/bhuvaneeswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvaneeswarreddy" height="40" width="60" /></a>
+ <a href="https://personal-portfolio-zeta-tan.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/10856/10856864.png" alt="bhuvaneeswarreddy" height="40" width="60" /></a>
 </p>
 
 ### Skills

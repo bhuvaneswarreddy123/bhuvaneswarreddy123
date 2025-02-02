@@ -1,14 +1,23 @@
 ![Header Image](https://github.com/bhuvaneswarreddy123/bhuvaneswarreddy123/blob/main/name.svg)
-<h1 align="center">Hi 👋, I'm Bhuvaneswar Reddy</h1>
-<h3 align="center">Aspire to become data analyst</h3>
+<h1 align="center" style="font-size: 70px wegith="bold" ">Hi 👋, I'm Bhuvaneswar Reddy</h1>
+<h3 align="center">Aspire to become a data analyst</h3>
 
-<img align="right" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzgqLDcCCJ-wwmgxgK_60duUHrVRMxET5iA&s">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **React.js**, **SQL optimization**.
 - 🤔 I’m looking for help with **building scalable systems** and **optimizing my code** for performance.
 - 💬 Ask me about **Python, Java, SQL, JavaScript, or anything tech-related**.
 - 📫 How to reach me: **agudurubhuvaneswarreddy@gmail.com**
 - ⚡ Fun fact: **I love learning new tools and technologies to stay ahead in the tech world!**
+
+ ### 📬 Connect  Me
+<p align="left">
+<a href="mailto:agudurubhuvaneswarreddy@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" width="60" />
+<a href="https://linkedin.com/in/agudurubhuvaneswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudurubhuvaneswarreddy" height="40" width="60" /></a>
+<a href="https://instagram.com/call_me_bhuvan199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_bhuvan199" height="40" width="60" /></a>
+<a href="https://www.leetcode.com/bhuvaneeswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvaneeswarreddy" height="40" width="60" /></a>
+</p>
 
 ### Skills
 <p align="left"> 
@@ -38,11 +47,4 @@
 
 
 
-### 📬 Connect with Me
-<p align="left">
-<a href="mailto:agudurubhuvaneswarreddy@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
-<a href="https://linkedin.com/in/agudurubhuvaneswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudurubhuvaneswarreddy" height="30" width="40" /></a>
-<a href="https://instagram.com/call_me_bhuvan199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_bhuvan199" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhuvaneeswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvaneeswarreddy" height="30" width="40" /></a>
-</p>
+

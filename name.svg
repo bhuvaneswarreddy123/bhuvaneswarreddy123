@@ -61,7 +61,7 @@
       }
     </style>
     <symbol id="s-text">
-    <text text-anchor="middle" x="50%" y="50%" dy=".35em" font-size="60px">Welcome to My Github</text>
+    <text text-anchor="middle" x="50%" y="50%" dy=".35em" font-size="50px">Welcome to My Github</text>
 
 </symbol>
 
